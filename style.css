@@ -1,6 +1,6 @@
-h1,{text-align:center;font-family:;}
+h1{text-align:center;font-family:;}
 
-h2{text-align:center;font-size:50px;}
+h2{text-align:center;font-size:50px;color: #F8F8FF; text-decoration:underline}
 
 header  {padding-bottom:3px;
     padding-top:3px;
@@ -15,4 +15,12 @@ display:inline-block;
     width: 32%;
 }
 
-body{margin:0px;}
+body{margin:0px;background-image:url(http://www.lovinpix.com/6975-thickbox/falcon-eyes-fond-de-studio-tissu-gris-bcp-104-270-x-7m.jpg)}
+
+p{text-decoration-color:#F8F8FF; text-align: center }
+
+h3{text-align: center;text-decoration: underline;}
+
+li{text-align: center}
+
+li h3{list-style: none}
