@@ -12,15 +12,23 @@ header a {color:white;
 
 header li{list-style:none;
 display:inline-block;
-    width: 32%;
+    width: 32%;font-family:font-family: 'Slabo 27px', serif;
 }
 
-body{margin:0px;background-image:url(http://www.lovinpix.com/6975-thickbox/falcon-eyes-fond-de-studio-tissu-gris-bcp-104-270-x-7m.jpg)}
+body{margin:0px;background-image:url(http://www.lovinpix.com/6975-thickbox/falcon-eyes-fond-de-studio-tissu-gris-bcp-104-270-x-7m.jpg); }
 
-p{text-decoration-color:#F8F8FF; text-align: center }
+p{color:#E6E6FA; }
 
 h3{text-align: center;text-decoration: underline;}
 
-li{text-align: center}
+li {text-align: center;}
 
-li h3{list-style: none}
+li h3{list-style: none;}
+
+.lol{list-style: none; text-align: center;   }
+
+ul{list-style: none;}
+
+main{text-align: center;}
+
+.boby{border-radius: 50%;}
