@@ -1,4 +1,4 @@
-h1{text-align:center;font-family:;}
+h1{text-align:center;font-family:sans-serif;color: #F5FFFA}
 
 h2{text-align:center;font-size:50px;color: #F8F8FF; text-decoration:underline}
 
@@ -6,29 +6,27 @@ header  {padding-bottom:3px;
     padding-top:3px;
     background-color:#455459;}
 
-header a {color:white;
+header a {color:#F5FFFA;
     text-decoration:none;    
 }
 
 header li{list-style:none;
 display:inline-block;
-    width: 32%;font-family:font-family: 'Slabo 27px', serif;
+    width: 32%;
 }
 
-body{margin:0px;background-image:url(http://www.lovinpix.com/6975-thickbox/falcon-eyes-fond-de-studio-tissu-gris-bcp-104-270-x-7m.jpg); }
+body{margin:0px;background-image:url(http://www.lovinpix.com/6975-thickbox/falcon-eyes-fond-de-studio-tissu-gris-bcp-104-270-x-7m.jpg)}
 
-p{color:#E6E6FA; }
+p{color:#F8F8FF; text-align: center }
 
 h3{text-align: center;text-decoration: underline;}
 
-li {text-align: center;}
+li{text-align: center}
 
-li h3{list-style: none;}
+li h3{list-style: none; color: #A52A2A}
 
-.lol{list-style: none; text-align: center;   }
+main{text-align: center; padding-left:15%; padding-right:15%;}
 
-ul{list-style: none;}
+ul{list-style: none}
 
-main{text-align: center;}
-
-.boby{border-radius: 50%;}
+li h4{color: white}
